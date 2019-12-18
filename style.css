@@ -1,0 +1,50 @@
+.name {
+    float: left;
+   
+}
+
+.nav {
+    float: right;
+    
+}
+
+.nav, .name {
+    background-color: aqua;
+    padding: 20px;
+    position: relative;
+    top: -30px;
+
+}
+.container {
+background-color: rgb(179, 168, 228);
+padding: 60px 20px;
+border: 5px black solid;
+margin: 10px;
+}
+
+.spongebob {
+    width: 15%;
+    border: 5px black solid;
+    float: left;
+}
+
+h1 {
+    text-align: center;
+}
+.right {
+    position: relative;
+    padding: 10px;
+    margin: 10px;
+    float: right;
+    width: 80%;
+}
+
+header {
+    padding: 2%;
+    border: 5px black solid;
+}
+
+main {
+    padding: 2%;
+    border: 5px black solid;
+}
